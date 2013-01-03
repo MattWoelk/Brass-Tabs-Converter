@@ -1,0 +1,71 @@
+C <-- key
+LEGEND: 
+. <-- eighth rest
+_ <-- hold for another eighth beat
+_/_/ <-- crescendo for a half note's amount of time
+
+Wilderness _ Supertones
+
+Brass notes
+
+(intro)
+..CBC.CBC.CBCDCBC.CBCDCBA___G___
+
+..CBC.CBC.CBCDCBC.CBCDCBA___G___
+..EDE.EDE.EDEFEDE.EDEFEDC___B___  <-- lower
+
+(verse)
+"The rain falls on..."
+"...and ways are not his"
+organ part:   [optional]
+C_______C_______A_______G_______
+E_______E_______C_______B_______
+                     x4
+(chorus)
+C_C_....C_C_....C_C_....B_B_....
+                     x4
+(intro again)
+..CBC.CBC.CBCDCBC.CBCDCBA___G___
+
+..CBC.CBC.CBCDCBC.CBCDCBA___G___
+..EDE.EDE.EDEFEDE.EDEFEDC___B___  <-- lower
+
+(verse)
+"I'm not one who..."
+"...it all works for good"
+organ part:   [optional]
+C_______C_______A_______G_______
+E_______E_______C_______B_______
+                     x4
+(chorus)
+C_C_....C_C_....C_C_....B_B_....
+                     x4
+(intro)
+..CBC.CBC.CBCDCBC.CBCDCBA___G___
+
+..CBC.CBC.CBCDCBC.CBCDCBA___G___
+..EDE.EDE.EDEFEDE.EDEFEDC___B___  <-- lower
+
+(bridge)
+"God, do you really..."
+"..how can you sympathize?"
+..................D_/_/_/_/  
+..................D_/_/_/_/  <-- an octave lower
+
+..................D_/_/_/_/  
+..................D_/_/_/_/  <-- an octave lower
+
+D_______ED_C_B__C_______B___A___
+D_______ED_C_B__C_______G___F#___
+
+..EEDE....EEDE....EEDE.F#..EEDE
+
+
+
+
+
+
+
+
+
+

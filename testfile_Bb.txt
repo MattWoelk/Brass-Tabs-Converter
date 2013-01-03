@@ -1,0 +1,10 @@
+Bb <-- key
+
+FFAbF.G.EbFCEbC..
+
+..FFAbF.G.EbFCBb__.
+
+..FFAbF.G.EbFCEbC..
+
+..AbAbBbC.C.BbAb.GFEbF
+ ^--lower   ^--upper octave (stays lower for trombone)

@@ -1,0 +1,71 @@
+Eb <-- key
+LEGEND: 
+. <-- eighth rest
+_ <-- hold for another eighth beat
+_/_/ <-- crescendo for a half note's amount of time
+
+Wilderness _ Supertones
+
+Brass notes
+
+(intro)
+..AAbA.AAbA.AAbABAAbA.AAbABAAbGb___E___
+
+..AAbA.AAbA.AAbABAAbA.AAbABAAbGb___E___
+..DbBDb.DbBDb.DbBDbDDbBDb.DbBDbDDbBA___Ab___  <-- lower
+
+(verse)
+"The rain falls on..."
+"...and ways are not his"
+organ part:   [optional]
+A_______A_______Gb_______E_______
+Db_______Db_______A_______Ab_______
+                     x4
+(chorus)
+A_A_....A_A_....A_A_....Ab_Ab_....
+                     x4
+(intro again)
+..AAbA.AAbA.AAbABAAbA.AAbABAAbGb___E___
+
+..AAbA.AAbA.AAbABAAbA.AAbABAAbGb___E___
+..DbBDb.DbBDb.DbBDbDDbBDb.DbBDbDDbBA___Ab___  <-- lower
+
+(verse)
+"I'm not one who..."
+"...it all works for good"
+organ part:   [optional]
+A_______A_______Gb_______E_______
+Db_______Db_______A_______Ab_______
+                     x4
+(chorus)
+A_A_....A_A_....A_A_....Ab_Ab_....
+                     x4
+(intro)
+..AAbA.AAbA.AAbABAAbA.AAbABAAbGb___E___
+
+..AAbA.AAbA.AAbABAAbA.AAbABAAbGb___E___
+..DbBDb.DbBDb.DbBDbDDbBDb.DbBDbDDbBA___Ab___  <-- lower
+
+(bridge)
+"God, do you really..."
+"..how can you sympathize?"
+..................B_/_/_/_/  
+..................B_/_/_/_/  <-- an octave lower
+
+..................B_/_/_/_/  
+..................B_/_/_/_/  <-- an octave lower
+
+B_______DbB_A_Ab__A_______Ab___Gb___
+B_______DbB_A_Ab__A_______E___Eb___
+
+..DbDbBDb....DbDbBDb....DbDbBDb.Eb..DbDbBDb
+
+
+
+
+
+
+
+
+
+

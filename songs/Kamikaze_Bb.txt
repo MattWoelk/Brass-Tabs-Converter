@@ -1,0 +1,96 @@
+Bb <-- key
+(guitar's intro)
+"i'm going in..."
+"..3,2,1,i'm going in."
+
+..GbGbAGb.Ab.EGbDbEDb..
+
+..GbGbAGb.Ab.EGbDbB__..
+
+..GbGbAGb.Ab.EGbDbEDb..
+
+..AABDb.Db.BA.AbGbEGb 
+ ^--lower   ^--upper octave (stays lower for trombone)
+
+(verse-thing)
+"I don't know if it's just me..."
+"...fades dreams and hollow eyes"
+
+..EEEE.Eb.EbEGb.Eb..
+..BBBB.Bb.BbBDb.Bb..
+
+..DbDbDbDb.Db.DbEEb....
+..AAAA.Ab.AbAbAb....
+
+..EEEE.Eb.EbEGb.Eb..
+..BBBB.Bb.BbBDb.Bb..
+
+..DbDbDbDb.Db.DbEEb....
+..AADbE.Ab.GbEEb....  <-- maybe both play the second half of this part
+
+..EEEE.Eb.EbEGb.Eb..
+..BBBB.Bb.BbBDb.Bb.. 
+
+A__.Ab__Gb____....
+Db__.E__Db____....
+
+EEbE.EEFGb........
+DbCDb.DbDbDEb........
+
+(pre-verse dual-singer thing)
+"...3,2,1 i'm going in..."
+"...3,2,1 i'm going in."
+
+..GbGbAGb.Ab.EGbDbEDb..
+
+..GbGbAGb.Ab.EGbDbB__..
+
+..GbGbAGb.Ab.EGbDbEDb..
+
+DBb.DbA.CAb.BG.Gb...
+
+(more singing about fences)
+"...change directions some how"
+
+..EEEE.Eb.EbEGb.Eb..
+..BBBB.Bb.BbBDb.Bb..
+
+..DbDbDbDb.Db.DbEEb....
+..AAAA.Ab.AbAbAb....
+
+..EEEE.Eb.EbEGb.Eb..
+..BBBB.Bb.BbBDb.Bb..
+
+..DbDbDbDb.Db.DbEEb....
+..AADbE.Ab.GbEEb....  <-- maybe both play the second half of this part
+
+..EEEE.Eb.EbEGb.Eb..
+..BBBB.Bb.BbBDb.Bb.. 
+
+A__.Ab__Gb____....
+Db__.E__Db____....
+
+EEbE.EEFGb........
+DbCDb.DbDbDEb........
+
+"I'm going in..."
+"...3,2,1 I'm going in..."
+"...3,2,1 I'm going in..."
+..GbGbAGb.Ab.EGbDbEDb..
+
+"I'm going in"
+..GbGbAGb.Ab.EGbDbB__..
+
+"I'm going in"
+..GbGbAGb.Ab.EGbDbEDb..
+
+DBb.DbA.CAb.BG.Gb...
+
+
+
+
+
+
+
+
+
